@@ -1,0 +1,5 @@
+name = input("input your name: ")
+id = input("input your id: ")
+print()
+print("name: ", name)
+print("id: ", id)
